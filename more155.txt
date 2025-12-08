@@ -1,0 +1,5 @@
+Mis tecnologias favoritas son:
+
+- HTML
+- CSS
+- React
